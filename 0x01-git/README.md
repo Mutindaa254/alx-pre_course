@@ -1,1 +1,1 @@
-This is my git command. Good for me
+This is my git command.
